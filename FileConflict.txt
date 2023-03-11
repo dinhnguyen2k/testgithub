@@ -1,3 +1,6 @@
 dong 1
+
 dong thu 3 trne may tinh 1
+
+dong thu 2 may tinh 2
 
